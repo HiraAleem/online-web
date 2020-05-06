@@ -1,0 +1,526 @@
+.sm{
+    background-color: rgb(59, 59, 243);
+    width: 1325px;
+    height: 55px;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.fa{
+    color: white;
+
+}
+.sm ul li{
+    list-style: none;
+    margin: 0 10px;
+    padding: -0.5px;
+    display: inline-block;
+}
+
+a:link{
+    position: relative;
+    display: block;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    border-radius:40%;
+    background-color: rgb(14, 14, 197);
+    transition: 0.5s;
+    transform: translate(0,0px);
+    box-shadow:0px 7px 5px rgba(0,0,0, 0.5) ;
+    
+}
+.c{ position: relative;
+    display: block;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    border-radius:30%;
+    background-color: rgb(14, 197, 75);
+    transition: 0.5s;
+    transform: translate(0,0px);
+    box-shadow:0px 7px 5px rgba(0,0,0, 0.5) ;
+
+}
+.sm ul li a:hover{
+    transform: rotate(0deg) skew(0deg) translate(0,-10px);
+}
+ a:link:hover{
+background-color: rgb(28, 206, 230);
+}
+.c:hover{
+    background-color:darkgreen;
+}
+#b{
+    color: white;
+    
+}
+button{
+    padding-left: 3px;
+    display: inline-block;
+    border:1 solid rgb(17, 236, 17) ;
+    border-color: green;
+    color:brown;
+    width: 92px;
+    height: 30px;
+    margin:   auto;
+    padding: 0px;
+}
+
+ #drop{
+     width: 1325px;
+     height: 79px;
+     background-color: whitesmoke;
+ }
+  .image1{
+     padding-left: 120px;
+     width: 250px;
+     height: 65px;
+     margin:auto;
+     
+ }
+ .y{
+     width: 79px;
+     border:0px ;
+     border-radius: 30px;
+     background-color: blue;
+     color: white;
+     text-align: center;
+     text-transform: uppercase;
+    
+     
+ }
+
+ .y{
+     margin-left:250px ;
+ }
+
+ #i{
+     background-color:whitesmoke;
+     width: 79px;
+     height:30px ;
+     border-radius: 30px;
+     border:none ;
+ }
+ #i:hover{
+     background-color: blue;
+
+ }
+ #j{
+    background-color:whitesmoke;
+    width: 79px;
+    height:30px ;
+    border-radius: 30px;
+    border:none ;
+}
+#j:hover{
+    background-color: blue;
+
+}
+#k{
+  background-color:whitesmoke;
+    width: 79px;
+    height:30px ;
+    border-radius: 30px;
+    border:none ;
+}
+#k:hover{
+    background-color: blue;
+
+}
+.l{
+    width: 79px;
+    border:0px ;
+    border-radius: 30px;
+    background-color: whitesmoke;
+    color:black;
+    text-align: center;
+    text-transform: uppercase;
+   
+    
+}
+.l:hover{
+    background-color: blue;
+}
+.pl{
+    width: 79px;
+    border:0px ;
+    border-radius: 30px;
+    background-color: whitesmoke;
+    color:black;
+    text-align: center;
+    text-transform: uppercase;
+   
+    
+}
+.pl:hover{
+    background-color: blue;
+}
+#q{
+    background-color:whitesmoke;
+      width: 79px;
+      height:30px ;
+      border-radius: 30px;
+      border:none ;
+  }
+  #q:hover{
+      background-color: blue;
+  
+  }
+  .image2{
+      width: 1325px;
+      height: 400px;
+  }
+  #ah{
+      width: 1325px;
+      height: 45px;
+      background-color: blue;
+    ;
+  }
+  .new{
+      color: rgb(17, 236, 17);
+  }
+  .new2{
+      color: rgb(208, 228, 27);
+
+  }
+marquee{
+   color: white;
+}
+#rd{
+    width: 900px;
+    height:600px;
+    padding-left:240px;
+}
+ h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: green;
+}
+.image3{
+    width: 50px;
+  display: block;
+  margin: 0 auto;
+}
+p{
+    color: gray;
+    text-align: center;
+    font-weight: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+#bb{
+    text-align: center;
+    width: 1325px;
+    height:200px ;
+    background-color: rgb(15, 89, 199);
+  
+   
+}
+.image4{
+    width: 1200px;
+    height:200px ;
+    padding-right: 250px;
+
+}
+#dg{
+    background-color: whitesmoke;
+    width: 1325px;
+}
+.image5{
+    display: block;
+    margin: 0 auto;
+  }
+  #MD{
+      background-color: whitesmoke;
+      
+  }
+.image6{
+    padding-left: 60px;
+}
+.image7{
+    width: 50px;
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+}
+#es{
+    padding:0 200px ;
+}
+
+.image8{
+    width: 250px;
+    height: 199px;
+    border-radius:5px ;  
+}
+.image8:hover{
+    transform: scale(2,2);
+    transition: -2s transform;
+}
+#black{
+   
+    width: 1325px;
+    height: 300px;
+    margin: 0px;
+    padding: 0px;
+   
+    background-color:rgb(43, 42, 42);
+    
+   
+    
+}
+
+#th{
+    padding-left:500px;
+}
+ #th .fa{
+    color: white;
+
+}
+#th ul li{
+    list-style: none;
+   
+    display: inline-block;
+    
+   
+}
+#th a:link{ position: relative;
+    display: block;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    border-radius:30%;
+    background-color: rgb(14, 14, 197);
+    transition: 0.5s;
+    transform: translate(0,0px);
+    box-shadow:0px 7px 5px rgba(0,0,0, 0.5) ;
+
+}
+
+.c{ position: relative;
+    display: block;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    border-radius:30%;
+    background-color: rgb(14, 197, 75);
+    transition: 0.5s;
+    transform: translate(0,0px);
+    box-shadow:0px 7px 5px rgba(0,0,0, 0.5) ;
+
+}
+#th ul li a:hover{
+    transform: rotate(0deg) skew(0deg) translate(0,-10px);
+}
+ #th a:link:hover{
+background-color: rgb(235, 27, 148);
+}
+#th .c:hover{
+    background-color:darkgreen;
+}
+#em{
+  
+    padding-left:500px;
+
+  
+}
+h3{
+    color: white;
+    text-align: left;
+    padding: 0 45px;
+    margin: 15px;
+}
+#id{
+    background-color:rgb(43, 42, 42);
+    width: 425px;
+    height: 220px;
+    padding: 0 10px;
+    margin: 10px;
+    color: pink;
+    font-size: 15px;
+
+}
+.mission{
+    width: 800px;
+    height: 400px;
+    background-color:white;
+    float: left;
+   
+}
+.hi { 
+    color: blue;
+    line-height: 100px;
+     font-size:39px;
+    }
+    
+    #box1{
+        width:299px;
+        height: 60px;
+        background-color: whitesmoke;
+        float: left;
+        margin-left:20px ;
+        font-size: 29px;
+        color: rgb(27, 27, 228);
+       
+
+    }
+
+
+    #box2{
+        width:299px;
+        height: 60px;
+        background-color: whitesmoke;
+       float: left;
+       margin-left:89px ;
+       font-size: 29px;
+        color: rgb(27, 27, 228);
+      
+
+    }
+   
+    #box3{
+        width:299px;
+        height: 60px;
+        background-color:whitesmoke;
+       float: left;
+       margin: 20px;
+       margin-left:20px ;
+       font-size: 29px;
+       color: rgb(27, 27, 228);
+
+    }
+    #box4{
+        width:299px;
+        height: 60px;
+        background-color:whitesmoke;
+       float: left;
+       margin: 20px;
+       margin-left:70px ;
+       font-size: 29px;
+       color: rgb(27, 27, 228);
+
+    }
+   
+      
+
+#events{
+    background-color:white;
+    border: 1px solid crimson;
+    float: left;
+    margin-left:70px ;
+   
+    width: 400px;
+    height: 400px;
+
+
+}
+.hl{
+    color: blue;
+}
+b{
+    color: blue;
+}
+body{
+    overflow-x: hidden;
+}
+  
+   
+  @media only screen and ( max-width:600px){
+      body{
+          width: 400px;
+      }
+  }
+  @media only screen and ( max-width:600px){
+    body{
+        width: 200px;
+    }
+}
+@media only screen and ( max-width:600px){
+    .image1{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+  .image1{
+      width: 200px;
+  }
+} @media only screen and ( max-width:600px){
+    .image2{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+  .image2{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    .image3{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+  .image3{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    .image4{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+  .image4{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    .image5{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+  .image5{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    .image6{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+  .image6{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    .image7{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+  .image7{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    .image8{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+  .image8{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    #es{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+  #es{
+      width: 200px;
+  }
+}
